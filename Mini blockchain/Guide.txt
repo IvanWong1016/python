@@ -1,0 +1,29 @@
+Install:
+
+-pip install requirements.txt
+
+-Run main_1.py
+
+-Change IP address of the main_1.py and nodes.json into your own IP showed in CMD pop out
+
+
+Function:
+
+--First add a coinbase transaction first
+
+
+--UTXO transaction 
+
+	--Show preious blocks 
+
+	--Generate Key pair
+	
+	--Finish with previous transaction id and key pair
+
+--Collect data in other nodes and select it
+
+--Inform data into other nodes
+
+
+
+
